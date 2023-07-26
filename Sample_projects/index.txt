@@ -1,0 +1,7 @@
+Hello,
+This file contains all my lecture writing note and pratices on Numpy, Pandas, Matplotlib, in jupyter notebook
+
+I had so much fun in this training course. 
+Thanks to amazing teachers like Daniel Bourke and Andrei Neagoie.
+
+Learn so much i could not believe possible and easy in my private room
