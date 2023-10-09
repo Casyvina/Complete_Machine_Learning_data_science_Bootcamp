@@ -1,6 +1,7 @@
-This project aims to predict the presence of heart disease in patients using machine learning techniques. The dataset is from Kaggle and contains information about patients, including the following features:
-
+# Heart Disease Prediction Kaggle dataset
 ![logo](heartdisease.jpg)
+
+This project aims to predict the presence of heart disease in patients using machine learning techniques. The dataset is from Kaggle and contains information about patients, including the following features:
 
 - age
 - sex
