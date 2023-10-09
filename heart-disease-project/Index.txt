@@ -1,1 +1,0 @@
-In this course, I created a model that predicted if a patient has a heart disease or not using Scikit-learn 
